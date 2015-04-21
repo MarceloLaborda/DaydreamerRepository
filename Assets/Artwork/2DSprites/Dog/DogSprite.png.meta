@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 873c256900d71d9459d5bfbe93468fdd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: backleftleg
+    21300004: backleftpaw
+    21300006: leftpaw
+    21300008: leftleg
+    21300010: leftshoulder
+    21300012: body
+    21300014: tail
+    21300016: hindleg
+    21300018: hindpaw
+    21300020: backrightleg
+    21300022: backrightpaw
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2353
+        width: 1298
+        height: 1122
+      alignment: 9
+      pivot: {x: .603759289, y: .339823067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backleftleg
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1567
+        width: 323
+        height: 539
+      alignment: 9
+      pivot: {x: .286484569, y: .891734064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backleftpaw
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 297
+        width: 379
+        height: 397
+      alignment: 9
+      pivot: {x: .717553139, y: .92071408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leftpaw
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 229
+        width: 467
+        height: 423
+      alignment: 9
+      pivot: {x: .617146075, y: .870800436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leftleg
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 962
+        width: 480
+        height: 664
+      alignment: 9
+      pivot: {x: .434627146, y: .894263387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leftshoulder
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1795
+        width: 464
+        height: 439
+      alignment: 9
+      pivot: {x: .311350733, y: .909862041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2262
+        width: 1628
+        height: 1151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tail
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 2560
+        width: 593
+        height: 897
+      alignment: 9
+      pivot: {x: .515706956, y: .0968329236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hindleg
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1429
+        width: 814
+        height: 711
+      alignment: 9
+      pivot: {x: .115460098, y: .870903432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hindpaw
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 492
+        width: 605
+        height: 695
+      alignment: 9
+      pivot: {x: .578716993, y: .810534239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backrightleg
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1257
+        width: 397
+        height: 517
+      alignment: 9
+      pivot: {x: .215284005, y: .918606162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backrightpaw
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 496
+        width: 517
+        height: 507
+      alignment: 9
+      pivot: {x: .64123863, y: .803219259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
